@@ -2,4 +2,4 @@
 
 preview:
 
-<img src="3.jpeg" >
+<img src="preview.png" >
