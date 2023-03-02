@@ -1,0 +1,102 @@
+
+pre{
+    font-style: inherit;
+    font-family: Cochin,serif;
+    font-size: medium;
+
+
+}
+h2{
+    text-align: center;
+    font-family: Cochin,serif;
+    font-style: unset;
+    font-size: xx-large;
+}
+h3{
+    font-family: Cochin,serif;
+    font-style: unset;
+    font-size: large;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+.controls {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+label {
+    margin-right: 10px;
+}
+
+canvas {
+    border: 1px solid black;
+    margin: 10px;
+}
+canvas {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid black;
+}
+p{
+    font-style: inherit;
+    font-family: Cochin,serif;
+    font-size: medium;
+}
+h2{
+    text-align: center;
+    font-family: Cochin,serif;
+    font-style: unset;
+    font-size: xx-large;
+}
+h3{
+    font-family: Cochin,serif;
+    font-style: unset;
+    font-size: large;
+}
+table {
+    margin:   10px auto;
+    border-collapse: collapse;
+    border-color: black;
+}
+th, td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.controls {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+label {
+    margin-right: 10px;
+}
+
+canvas {
+    border: 2px solid black;
+    margin: 10px;
+    width: border-box;
+}
+
+
+
+body{
+    background-image: url("3.jpeg");
+}
